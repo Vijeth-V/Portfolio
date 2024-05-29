@@ -1,0 +1,3 @@
+git rm -n ./*/**/.DS_Store
+
+git rm -n --cached ./.DS_Store
