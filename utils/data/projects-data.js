@@ -1,8 +1,3 @@
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
-
 export const projectsData = [
     {
         id: 1,
@@ -12,7 +7,7 @@ export const projectsData = [
         role: 'Full stack Developer',
         code: '',
         demo: '',
-        image: crefin,
+        image: '',
     },
     {
         id: 2,
@@ -22,7 +17,7 @@ export const projectsData = [
         role: 'Front end Developer',
         code: '',
         demo: '',
-        image: travel,
+        image: '',
     },
     {
         id: 3,
@@ -32,7 +27,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        image: ''
     },
     {
         id: 4,
@@ -40,9 +35,9 @@ export const projectsData = [
         description: "I Developed a cloud-based user interface for a system deployed on Amazon EC2 to handle user-submitted email IDs and file attachments. Utilized AWS Lambda to trigger backend processes, storing emails in an AWS database and files in an S3 Bucket. Integrated AWS SNS to efficiently send emails to the specified recipients.",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
-        demo: '',
-        image: ayla,
         role: 'Developer',
+        demo: '',
+        image: ''
     },
     {
         id: 5,
@@ -51,7 +46,7 @@ export const projectsData = [
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
         demo: '',
-        image: ayla,
+        image: '',
         role: 'Developer',
     },
     {
@@ -60,9 +55,9 @@ export const projectsData = [
         description: "The Coupon Management System, powered by React.js, and HTML, revolutionizes coupon administration with precision targeting and real-time analytics. Seamlessly integrating digital channels for coupon distribution and redemption, it enhances user experience and boosts brand loyalty.",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
-        demo: '',
-        image: ayla,
         role: 'Full stack Developer',
+        demo: '',
+        image: ''
     },
     {
         id: 7,
@@ -70,9 +65,9 @@ export const projectsData = [
         description: "Developed a Digital Medical Management System to streamline appointment scheduling, patient data storage, and prescription archiving. Implemented innovative features to enhance patient experience and improve medical data management. Developed the project using HTML, JS, CSS and MySQL database for storage and retrieval of data.",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
-        demo: '',
-        image: ayla,
         role: 'Full stack Developer',
+        demo: '',
+        image: ''
     }
 ];
 
