@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
         name: 'Ourmarket',
         description: "Crafted on e-commerce platform for a Nigerian bank, seamlessly integrating a user-friendly application, an empowered vendor dashboard, and a comprehensive admin control app. The platform boasts a responsive design across all devices and ensures secure transactions, providing a dynamic and scalar online marketplace.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        tools: ['Vue.js', 'Vuetify', 'Node.js', 'MongoDB', 'Nginx', 'Kubernetes', 'Docker'],
         role: 'Full stack Developer',
         code: '',
         demo: '',
