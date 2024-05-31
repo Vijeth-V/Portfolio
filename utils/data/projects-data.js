@@ -13,7 +13,7 @@ export const projectsData = [
         id: 2,
         name: 'Guardtour',
         description: 'The Guard Tour app employs IoT technology to monitor security personnel in real-time, offering a solution that delivers comprehensive reports. These reports provide accurate insights into the performance of the security team.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
+        tools: ['Vue.js', 'Vuetify', 'Node.js', 'MongoDB', 'Express', 'Firebase', 'IoT', 'Nginx', 'Kubernetes', 'Docker'],
         role: 'Front end Developer',
         code: '',
         demo: '',
