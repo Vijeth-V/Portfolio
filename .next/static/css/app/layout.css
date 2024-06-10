@@ -1478,6 +1478,7 @@ body {
 #sticky-card-4 {
   --index: 4;
 }
+
 #sticky-card-5 {
   --index: 5;
 }
@@ -1489,6 +1490,7 @@ body {
 #sticky-card-7 {
   --index: 7;
 }
+
 .sticky-card {
   top: calc(var(--index) * 4rem);
 }
