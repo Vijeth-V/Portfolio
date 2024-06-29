@@ -1,7 +1,13 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Student Assistant',
+    title: 'Full-stack Developer',
+    company: "One Community Inc",
+    duration: "May 2024 - Present"
+  },
+  {
+    id: 1,
+    title: 'Software developer',
     company: "University of Alabama at Birmingham",
     duration: "January 2024 - April 2024"
   },
