@@ -5,7 +5,7 @@ import Image from "next/image";
 import { BsPersonWorkspace } from "react-icons/bs";
 import AnimationLottie from "../../helper/animation-lottie";
 import GlowCard from "../../helper/glow-card";
-import experience from '/public/lottie/code.json';
+import experience from '/public/lottie/experience.json';
 
 function Experience() {
   return (
@@ -13,7 +13,7 @@ function Experience() {
       <Image
         src="/section.svg"
         alt="Hero"
-        width={1572}
+        width={472}
         height={795}
         className="absolute top-0 -z-10"
       />

@@ -29,7 +29,7 @@ eval("/* __next_internal_client_entry_do_not_use__  cjs */ \nfunction ___$insert
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-module.exports = createProxy("/Users/vijeth/Documents/Job Hunt/Portfolio/node_modules/react-fast-marquee/dist/index.js");
+module.exports = createProxy("/Users/vijeth/Projects/Portfolio/Vijeth Portfolio/node_modules/react-fast-marquee/dist/index.js");
  //# sourceMappingURL=index.js.map
 
 
