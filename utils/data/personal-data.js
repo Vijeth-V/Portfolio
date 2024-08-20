@@ -2,7 +2,7 @@ export const personalData = {
   name: "Vijeth Venkatesha",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is Vijeth Venkatesha. Experienced full-stack developer with over 3 years of experience in a dynamic micro-organization. Proficient in the end-to-end application development cycle, I possess a strong foundation in both front-end and back-end development. I recently graduated with a Masters in Computer Science from the University of Alabama at Birmingham. I am a proactive communicator and collaborative team player,  further enhancing my skill set and readiness to contribute effectively to innovative projects and teams in the tech industry.. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Vijeth Venkatesha. A Full-Stack software developer with 3+ years of experience in designing, developing, and implementing web applications using React.js, Node.js, Java, HTML5, CSS, and JavaScript. Proven ability to collaborate with cross-functional teams to deliver high-quality and user-friendly web applications. Experienced across the entire Software Development Life Cycle with a strong command of REST API, MongoDB, Git version control, Docker for containerization, agile methodologies, CI/CD, MVC architecture, Micro-services, and application security.",
   email: 'vijeth1410@gmail.com',
   phone: '+1 6592539525',
   address: '2951 S King Dr, Chicago, Illinois, USA',
