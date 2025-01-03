@@ -26,7 +26,7 @@ function AboutSection() {
           <Image
             src={personalData.profile}
             width={340}
-            height={280}
+            max-height={280}
             alt="Vijeth Venkatesha"
             className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
