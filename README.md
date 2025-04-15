@@ -2,8 +2,6 @@
 # [Built Portfolio With GitHub ](https://github.com/Vijeth-V)
 ---
 
-# Developer Portfolio
-
 
 ---
 
