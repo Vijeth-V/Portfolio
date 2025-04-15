@@ -98,15 +98,15 @@ export const projectsData = [
         role: 'Full stack Developer',
         demo: '',
         image: ''
+    },
+    {
+        id: 11,
+        name: 'SEMAS',
+        description: "Developed a Digital Medical Management System to streamline appointment scheduling, patient data storage, and prescription archiving. Implemented innovative features to enhance patient experience and improve medical data management. Developed the project using HTML, JS, CSS and MySQL database for storage and retrieval of data.",
+        tools: ['Vue.JS', 'Material UI', 'Redux', 'VS code Editor', "Calendar"],
+        code: '',
+        role: 'Full stack Developer',
+        demo: '',
+        image: ''
     }
-    // {
-    //     id: 11,
-    //     name: 'SEMAS',
-    //     description: "Developed a Digital Medical Management System to streamline appointment scheduling, patient data storage, and prescription archiving. Implemented innovative features to enhance patient experience and improve medical data management. Developed the project using HTML, JS, CSS and MySQL database for storage and retrieval of data.",
-    //     tools: ['Vue.JS', 'Material UI', 'Redux', 'VS code Editor', "Calendar"],
-    //     code: '',
-    //     role: 'Full stack Developer',
-    //     demo: '',
-    //     image: ''
-    // }
 ];
